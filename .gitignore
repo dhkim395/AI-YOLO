@@ -1,0 +1,6 @@
+echo weights_last.pt>>.gitignore
+echo *.pt>>.gitignore
+echo *.pth>>.gitignore
+echo runs/>>.gitignore
+echo outputs/>>.gitignore
+echo checkpoints/>>.gitignore
